@@ -1,4 +1,4 @@
-# Evaluation script for portfolio-catalog
+# Evaluation script for price-tracker
 
 def run_evaluation():
     # TODO: Implement actual evaluation logic

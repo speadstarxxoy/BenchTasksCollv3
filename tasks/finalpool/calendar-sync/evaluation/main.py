@@ -1,4 +1,4 @@
-# Evaluation script for portfolio-catalog
+# Evaluation script for appointment-scheduler
 
 def run_evaluation():
     # TODO: Implement actual evaluation logic
